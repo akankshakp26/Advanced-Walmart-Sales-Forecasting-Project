@@ -5,8 +5,10 @@ A **Streamlit web app** that forecasts Walmart weekly sales using an XGBoost reg
 ---
 
 ## 🖥️ App Preview
-
-
+<img width="1915" height="863" alt="Screenshot 2026-05-29 121635" src="https://github.com/user-attachments/assets/c58081d7-8f1c-4a83-aa9d-6f8d0cffe1a1" />
+<img width="1918" height="865" alt="Screenshot 2026-05-29 121832" src="https://github.com/user-attachments/assets/638cbaf7-6ca0-47c7-94e7-1a25e211245b" />
+<img width="1918" height="871" alt="Screenshot 2026-05-29 121853" src="https://github.com/user-attachments/assets/918b7d51-0a3a-4a62-ba32-410eff184631" />
+<img width="1919" height="863" alt="Screenshot 2026-05-29 121915" src="https://github.com/user-attachments/assets/33c4bf2f-8256-4050-a752-3ba5fba3125b" />
 
 ---
 
